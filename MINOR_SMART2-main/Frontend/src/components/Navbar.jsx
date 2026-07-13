@@ -38,7 +38,7 @@ const Navbar = () => {
         <div className="navbar-container">
           <Link to="/dashboard" className="navbar-brand">
             <span className="brand-icon">✨</span>
-            <span className="brand-text">AeroSaaS</span>
+            <span className="brand-text">RATI</span>
           </Link>
 
           <div className="navbar-links desktop-only">

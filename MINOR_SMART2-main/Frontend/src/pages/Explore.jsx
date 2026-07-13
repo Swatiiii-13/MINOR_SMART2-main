@@ -191,7 +191,7 @@ const Explore = () => {
       className="dashboard-container"
       style={{ maxWidth: '1300px' }}
     >
-      {/* Self-contained styling overrides for AeroSaaS Premium Look */}
+      {/* Self-contained styling overrides for RATI Premium Look */}
       <style>{`
         .explore-search-section {
           background: linear-gradient(135deg, rgba(30, 41, 59, 0.4) 0%, rgba(15, 23, 42, 0.6) 100%);
